@@ -214,7 +214,7 @@ For testing compatibility, I created a testing matrix to test across multiple de
 
 Sources of the images used on this site:
 
-- bluetomato.com
+- [Blue Tomato](https://www.blue-tomato.com/)
 
 ### Code
 
