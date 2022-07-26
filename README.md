@@ -218,6 +218,6 @@ Sources of the images used on this site:
 
 ### Code
 
-- [fe](https://www.freecodecamp.org/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
 
 ##### back to [top](#table-of-contents)
