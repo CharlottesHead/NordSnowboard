@@ -218,23 +218,6 @@ Sources of the images used on this site:
 
 ### Code
 
-- Suggested **.gitignore** files from [GitHub/gitignore](https://github.com/github/gitignore)
-- **Custom Toast** on *page load* (instead of **Materialize Toasts** with an *onclick* event) for my Flask Flash Messages : [StackOverflow](https://stackoverflow.com/questions/43345678/how-to-display-the-snack-bar-on-page-load)
-- **Custom list item** attributes (instead of standard bullet points) for my recipe *Directions* : [CSS Tricks](https://css-tricks.com/custom-list-number-styling/)
-- **Auto-Open '.card-reveal'** on *:hover* : [StackOverflow](https://stackoverflow.com/questions/36290110/open-card-reveal-content-by-hover-the-activator-in-materializecss)
-- **Print** only certain elements : [StackOverflow](https://stackoverflow.com/a/2618980)
-- **Copy to Clipboard** : [w3schools](https://www.w3schools.com/howto/howto_js_copy_clipboard.asp)
-- **Enforce Validation on Materialize Dropdowns** : [StackOverflow](https://stackoverflow.com/questions/34248898/how-to-validate-select-option-for-a-materialize-dropdown)
-- **Flask Blueprints walkthrough** : [Corey Schafer on YouTube](https://youtu.be/Wfx4YBzg16s)
-- **Sending Emails using Python** :
-    - [freeCodeCamp](https://www.freecodecamp.org/news/send-emails-using-code-4fcea9df63f/)
-    - [StackOverflow](https://stackoverflow.com/a/17596848)
-    - [StackOverflow](https://stackoverflow.com/q/16512592)
-    - [StackOverflow](https://stackoverflow.com/a/8519646)
-- **Find Client IP Address** :
-    - [StackOverflow](https://stackoverflow.com/a/35123097)
-    - [IP API](https://ipapi.co/json/)
-    - [IP Info](https://ipinfo.io/json)
-- **Get Proper IP Address, not Heroku IP** : [StackOverflow](https://stackoverflow.com/a/37061471)
+- [fe](https://www.freecodecamp.org/)
 
 ##### back to [top](#table-of-contents)
