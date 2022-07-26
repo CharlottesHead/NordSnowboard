@@ -24,7 +24,6 @@ Scandinavia is home to a disproportionate amount (considering the size of the co
     - [**Compatibility**](#compatibility)
 
 5. [**Credits**](#credits)
-    - [**Content**](#content)
     - [**Media**](#media)
     - [**Code**](#code)
 
@@ -205,10 +204,6 @@ For testing compatibility, I created a testing matrix to test across multiple de
 ---
 
 ## Credits
-
-### Content
-
-- [*"How to Write a Git Commit Message"*](https://chris.beams.io/posts/git-commit/) by **Chris Beams** (*as recommended by Code Institute assessors on previous projects*)
 
 ### Media
 
